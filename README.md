@@ -23,8 +23,8 @@ My name is Guilherme O. Coelho, better known as oKrolik, online, I'm a computer 
 
 ## &#x1f4c8; GitHub Stats
 
-![oKrolik's GitHub stats](https://github-readme-stats.vercel.app/api?username=oKrolik&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oKrolik&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![oKrolik's GitHub stats](https://github-readme-stats.vercel.app/api?username=oKrolik&show_icons=true&theme=darcula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oKrolik&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 [1]: http://gcoelho.epizy.com/
 [2]: https://www.linkedin.com/in/guilherme-coelho-a044ab1b6/
