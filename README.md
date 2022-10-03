@@ -1,9 +1,11 @@
 ### Hey! 👋
 
-My name is Guilherme O. Coelho, better known as oKrolik, online. I'm a computer engineering student, from the OPorto University. I live in Portugal, and i'm a Fullstack enjoyer . You can find me on [LinkedIn][1]. 
+My name is Guilherme O. Coelho, better known as oKrolik, online. I'm a computer engineering student, from the OPorto University. I live in Portugal, and i'm a Fullstack enjoyer . 
+
+You can find me on [LinkedIn][1]. 
 
 You may want to see my latest project: [Coelho's website][2].
-
+![image](https://user-images.githubusercontent.com/93000522/193672667-ec64323f-52a2-4c70-b52e-003ea15afcd5.png)
 
 ## 🔧 Technologies & Tools
 
