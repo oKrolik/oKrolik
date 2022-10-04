@@ -4,7 +4,7 @@ My name is Guilherme O. Coelho, better known as oKrolik, online. I'm a computer 
 
 
 
-You may want to see my latest project: [Coelho's website][2].
+# You may want to see my latest project: [Coelho's website][2].
 
 ![image](https://user-images.githubusercontent.com/93000522/193672667-ec64323f-52a2-4c70-b52e-003ea15afcd5.png)
 
@@ -35,7 +35,7 @@ You may want to see my latest project: [Coelho's website][2].
 
 
 
-You can find me on [LinkedIn][1]. 
+# You can find me on [LinkedIn][1]. 
 
 ![image](https://user-images.githubusercontent.com/93000522/193674361-97b053dc-c077-4f39-bf36-b251453a7b1e.png)
 
