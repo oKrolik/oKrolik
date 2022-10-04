@@ -10,11 +10,11 @@ My name is Guilherme O. Coelho, better known as oKrolik, online. I'm a computer 
 
 ## 🔧 Technologies & Tools
 <div align="center">
-  ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=a9fef7&color=important)
-  ![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=a9fef7&color=important)   
-  ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=plastic&logo=intellij-idea&logoColor=a9fef7&color=important)
-  ![](https://img.shields.io/badge/Editor-pycharm-informational?style=plastic&logo=intellij-idea&logoColor=a9fef7&color=important)
-  ![](https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=visual-studio-code&logoColor=a9fef7&color=important)   
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=plastic&logo=intellij-idea&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Editor-pycharm-informational?style=plastic&logo=intellij-idea&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=visual-studio-code&logoColor=a9fef7&color=important" target="_blank">
 </div>
 <div align="center">
   ![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=a9fef7&color=important)
