@@ -29,6 +29,7 @@ You may want to see my latest project: [Coelho's website][2].
 ## &#x1f4c8; GitHub Stats
 
 ![oKrolik's GitHub stats](https://github-readme-stats.vercel.app/api?username=oKrolik&show_icons=true&theme=darcula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oKrolik&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 
