@@ -34,12 +34,11 @@ My name is Guilherme O. Coelho, better known as oKrolik, online. I'm a computer 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oKrolik&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
-# You can find me on [LinkedIn][1]. <a align="right" href="https://www.linkedin.com/in/guilherme-coelho-a044ab1b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-<div align="center">
-  ![image](https://user-images.githubusercontent.com/93000522/193674361-97b053dc-c077-4f39-bf36-b251453a7b1e.png)
+<div>
+  # <p align="left">You can find me on [LinkedIn][1].</p>
+  <a align="right" href="https://www.linkedin.com/in/guilherme-coelho-a044ab1b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+![image](https://user-images.githubusercontent.com/93000522/193674361-97b053dc-c077-4f39-bf36-b251453a7b1e.png)
 
 [1]: https://www.linkedin.com/in/guilherme-coelho-a044ab1b6/
 [2]: http://gcoelho.epizy.com/
