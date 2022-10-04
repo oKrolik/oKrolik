@@ -17,18 +17,18 @@ My name is Guilherme O. Coelho, better known as oKrolik, online. I'm a computer 
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=visual-studio-code&logoColor=a9fef7&color=important" target="_blank">
 </div>
 <div align="center">
-  ![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=a9fef7&color=important)
-  ![](https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=css3&logoColor=a9fef7&color=important)
-  ![](https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&logoColor=a9fef7&color=important)
-  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=a9fef7&color=important)
-  ![](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=css3&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
 </div>
 <div align="center">
-  ![](https://img.shields.io/badge/Code-C-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
-  ![](https://img.shields.io/badge/Code-django-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
-  ![](https://img.shields.io/badge/Code-python-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
-  ![](https://img.shields.io/badge/Code-haskell-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
-  ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=a9fef7&color=important)
+  <img src="https://img.shields.io/badge/Code-C-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Code-django-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Code-python-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Code-haskell-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=a9fef7&color=important" target="_blank">
 </div>
 
 
