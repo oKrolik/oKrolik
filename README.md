@@ -24,7 +24,7 @@ My name is Guilherme O. Coelho, better known as oKrolik, online. I'm a computer 
 ![](https://img.shields.io/badge/Code-django-informational?style=flat&logo=c&logoColor=a9fef7&color=important)
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=c&logoColor=a9fef7&color=important)
 ![](https://img.shields.io/badge/Code-haskell-informational?style=flat&logo=c&logoColor=a9fef7&color=important)
-![](https://img.shields.io/badge/Tools-PostgreSQL-%230077B5?style=for-the-badge&logo=postgresql&logoColor=a9fef7&color=important)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=a9fef7&color=important)
 
 %230077B5?style=for-the-badge&
 
