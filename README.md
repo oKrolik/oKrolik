@@ -36,8 +36,8 @@ My name is Guilherme O. Coelho, better known as oKrolik, online. I'm a computer 
 
 <div align="center">
   <a href="https://github.com/oKrolik">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oKrolik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oKrolik&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oKrolik&show_icons=true&theme=darcula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oKrolik&layout=compact&theme=darcula"/>
 </div>
 
 # You can find me on [LinkedIn][1].
