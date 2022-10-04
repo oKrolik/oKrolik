@@ -9,22 +9,27 @@ My name is Guilherme O. Coelho, better known as oKrolik, online. I'm a computer 
 ![image](https://user-images.githubusercontent.com/93000522/193672667-ec64323f-52a2-4c70-b52e-003ea15afcd5.png)
 
 ## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=a9fef7&color=important)
-![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=a9fef7&color=important)   
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=plastic&logo=intellij-idea&logoColor=a9fef7&color=important)
-![](https://img.shields.io/badge/Editor-pycharm-informational?style=plastic&logo=intellij-idea&logoColor=a9fef7&color=important)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=visual-studio-code&logoColor=a9fef7&color=important)   
-![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=a9fef7&color=important)
-![](https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=css3&logoColor=a9fef7&color=important)
-![](https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&logoColor=a9fef7&color=important)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=a9fef7&color=important)
-![](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
-![](https://img.shields.io/badge/Code-C-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
-![](https://img.shields.io/badge/Code-django-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
-![](https://img.shields.io/badge/Code-python-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
-![](https://img.shields.io/badge/Code-haskell-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=a9fef7&color=important)
+<div align="center">
+  ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=a9fef7&color=important)
+  ![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=a9fef7&color=important)   
+  ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=plastic&logo=intellij-idea&logoColor=a9fef7&color=important)
+  ![](https://img.shields.io/badge/Editor-pycharm-informational?style=plastic&logo=intellij-idea&logoColor=a9fef7&color=important)
+  ![](https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=visual-studio-code&logoColor=a9fef7&color=important)   
+</div>
+<div align="center">
+  ![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=a9fef7&color=important)
+  ![](https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=css3&logoColor=a9fef7&color=important)
+  ![](https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&logoColor=a9fef7&color=important)
+  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=a9fef7&color=important)
+  ![](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
+</div>
+<div align="center">
+  ![](https://img.shields.io/badge/Code-C-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
+  ![](https://img.shields.io/badge/Code-django-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
+  ![](https://img.shields.io/badge/Code-python-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
+  ![](https://img.shields.io/badge/Code-haskell-informational?style=plastic&logo=c&logoColor=a9fef7&color=important)
+  ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=a9fef7&color=important)
+</div>
 
 
 ## &#x1f4c8; GitHub Stats
