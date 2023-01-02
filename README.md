@@ -16,27 +16,30 @@ I'm a computer engineering student, from the OPorto University. I live in Portug
 
 ## 🔧 Technologies & Tools
 <div align="center">
+  <img src="https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&logoColor=a9fef7&color=important" target="_blank">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=css3&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&logoColor=a9fef7&color=important" target="_blank">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-django-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Code-python-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=a9fef7&color=important" target="_blank">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=a9fef7&color=important" target="_blank">
+  <img src="https://img.shields.io/badge/Code-C-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-haskell-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=a9fef7&color=important" target="_blank">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=a9fef7&color=important" target="_blank">
-  <img src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=plastic&logo=intellij-idea&logoColor=a9fef7&color=important" target="_blank">
   <img src="https://img.shields.io/badge/Editor-pycharm-informational?style=plastic&logo=intellij-idea&logoColor=a9fef7&color=important" target="_blank">
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=visual-studio-code&logoColor=a9fef7&color=important" target="_blank">
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=a9fef7&color=important" target="_blank">
-  <img src="https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=css3&logoColor=a9fef7&color=important" target="_blank">
-  <img src="https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&logoColor=a9fef7&color=important" target="_blank">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=a9fef7&color=important" target="_blank">
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Code-C-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
-  <img src="https://img.shields.io/badge/Code-django-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
-  <img src="https://img.shields.io/badge/Code-python-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
-  <img src="https://img.shields.io/badge/Code-haskell-informational?style=plastic&logo=c&logoColor=a9fef7&color=important" target="_blank">
-  <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=a9fef7&color=important" target="_blank">
-</div>
-
 
 ## &#x1f4c8; GitHub Stats
 
@@ -45,8 +48,9 @@ I'm a computer engineering student, from the OPorto University. I live in Portug
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oKrolik&show_icons=true&theme=darcula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oKrolik&layout=compact&theme=darcula"/>
 </div>
+  
+  ![Snake animation](https://github.com/oKrolik/oKrolik/blob/output/github-contribution-grid-snake.svg)
 
- 
 ## Find me on [LinkedIn][3].
 
 [1]: https://gcoelho.netlify.app/
