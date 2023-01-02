@@ -1,8 +1,14 @@
 ### Hey! 👋
 
-My name is Guilherme O. Coelho, better known as oKrolik, online. I'm a computer engineering student, from the OPorto University. I live in Portugal, and i'm a Fullstack enjoyer . 
+My name is Guilherme O. Coelho, better known as oKrolik.
+I'm a computer engineering student, from the OPorto University. I live in Portugal. 
 
+#
 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+# Check here my [personal website][1]:
+![image](https://user-images.githubusercontent.com/93000522/210244649-2d61fb2f-0dc7-496b-8d3e-af7bcea18e56.png)
 
 # You may want to see my latest project: [Coelho's website][2].
 
@@ -40,9 +46,13 @@ My name is Guilherme O. Coelho, better known as oKrolik, online. I'm a computer 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oKrolik&layout=compact&theme=darcula"/>
 </div>
 
-# You can find me on [LinkedIn][1].
+ 
+## Find me on [LinkedIn][3].
 
-![image](https://user-images.githubusercontent.com/93000522/193674361-97b053dc-c077-4f39-bf36-b251453a7b1e.png)</a>
-
-[1]: https://www.linkedin.com/in/guilherme-coelho-a044ab1b6/
+[1]: https://gcoelho.netlify.app/
 [2]: http://gcoelho.epizy.com/
+[3]: https://www.linkedin.com/in/guilherme-coelho-a044ab1b6/
+  
+  
+  
+  
