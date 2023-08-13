@@ -10,10 +10,6 @@ I'm a computer engineering student, from the OPorto University. I live in Portug
 # Check here my [personal website][1]:
 ![image](https://user-images.githubusercontent.com/93000522/210244649-2d61fb2f-0dc7-496b-8d3e-af7bcea18e56.png)
 
-# You may want to see my latest project: [Coelho's website][2].
-
-![image](https://user-images.githubusercontent.com/93000522/193672667-ec64323f-52a2-4c70-b52e-003ea15afcd5.png)
-
 ## 🔧 Technologies & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&logoColor=a9fef7&color=important" target="_blank">
@@ -54,7 +50,6 @@ I'm a computer engineering student, from the OPorto University. I live in Portug
 ## Find me on [LinkedIn][3].
 
 [1]: https://gcoelho.netlify.app/
-[2]: http://gcoelho.epizy.com/
 [3]: https://www.linkedin.com/in/guilherme-coelho-a044ab1b6/
   
   
