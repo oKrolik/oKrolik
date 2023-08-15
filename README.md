@@ -41,7 +41,6 @@ I'm a computer engineering student, from the OPorto University. I live in Portug
 
 <div align="center">
   <a href="https://github.com/oKrolik">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oKrolik&show_icons=true&theme=darcula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oKrolik&layout=compact&theme=darcula"/>
 </div>
   
