@@ -8,7 +8,7 @@ I'm a computer engineering student, from the OPorto University. I live in Portug
 
 ## Find me on [LinkedIn][3].
 
-[1]: https://gcoelho.netlify.app/
+[1]: https://okrolik.github.io/
 [3]: https://www.linkedin.com/in/guilherme-coelho-a044ab1b6/
   
   
